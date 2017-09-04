@@ -1,0 +1,10 @@
+Brian Caravantes 
+
+Regex 1
+(KK|Nic|Vincent),([^\n]+)
+
+Regex 2
+(KK|Nic|Vincent),*.\s.*s([^\n]+)
+
+Regex 3
+(turkey.bacon.swiss.|ham.cheddar.|tunaSalad.)\s([^\n].*)
