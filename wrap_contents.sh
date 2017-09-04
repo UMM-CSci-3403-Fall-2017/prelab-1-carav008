@@ -9,7 +9,6 @@ header=$name$head
 footer=$name$foot
 
 #Wraps contents of $file with $name and ouputs to newly made target file 
-touch $3
 cat $header $file $footer > $3
 
 
